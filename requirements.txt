@@ -1,0 +1,10 @@
+numpy>=1.24
+matplotlib>=3.7
+plotly>=5.18
+dash>=2.16
+dash-bootstrap-components>=1.5
+pandas>=2.0
+
+# Optional — install only what matches your database:
+# psycopg2-binary      # PostgreSQL
+# mysql-connector-python  # MySQL / MariaDB
